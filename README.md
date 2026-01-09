@@ -1,8 +1,6 @@
 # Hi, I'm V Kavya 👋
 
-🎓 Software Engineering Undergraduate (Anna University)
-💻 Interested in **scalable systems, cloud platforms, and mobile development**
-☁️ Hands-on experience with **Google Cloud Platform, AWS, and data pipelines**
+🎓 **Software Engineering Undergraduate who enjoys building scalable systems, experimenting with cloud platforms, and turning mobile ideas into working products** ☁️📱
 
 ---
 
